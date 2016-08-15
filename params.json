@@ -1,6 +1,6 @@
 {
-  "name": "Open source physiotherapy",
+  "name": "openPhysio",
   "tagline": "A project for an open source physiotherapy curriculum.",
-  "body": "### Welcome to Open Source Physiotherapy.\r\nThis is the GitHub home of a project that aims to create an open source physiotherapy curriculum that can be reproduced, edited and re-shared with others.\r\n\r\n### Authors and Contributors\r\nThis project is currently maintained by Michael Rowe, a physiotherapy lecturer at the University of the Western Cape in Cape Town, South Africa.",
+  "body": "### Welcome to openPhysio.\r\nThis is the home of a project that aims to create a collaborative, open source physiotherapy curriculum that can be reproduced, edited and re-shared by others.\r\n\r\n### Authors and Contributors\r\nThis project is currently maintained by Michael Rowe, a physiotherapy lecturer at the University of the Western Cape in Cape Town, South Africa.",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
