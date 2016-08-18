@@ -1,3 +1,4 @@
+# Competency-based curriculum
 openPhysio is a competency-based curriculum, as opposed to a time-based curriculum. In a time-based curriculum performance is tied to units of time and the curriculum is described in that way. For example, the candidate is expected to complete 100 hours of contact time over 2 semesters, that is worth 10 credits. In a competency-based curriculum the candidate is expected to demonstrate proficiency is a variety of domains which are determined by their ability to use knowledge and skills as applied to that domian. It is linked to what students' learned, rather than what was taught.
 
 # Competencies
@@ -36,7 +37,7 @@ Within each Role is a set of Key and Enabling Competencies that are broken up in
 
 ## Collaborator
 
-###. Work effectively with physicians and other colleagues in the health care professions
+### Work effectively with physicians and other colleagues in the health care professions
   1. Establish and maintain positive relationships with physicians and other colleagues in the health care professions to support relationship-centred collaborative care
   2. etc., etc.
 
