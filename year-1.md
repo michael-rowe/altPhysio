@@ -1,5 +1,5 @@
 # Year 1
-The first year of study includes the following Projects:
+The first year of study includes the following Projects and Competencies (at the entry level Milestone):
 
 1. Project 1
 1. Project 2
